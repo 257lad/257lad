@@ -1,11 +1,11 @@
 # Hi there, I'm Isaac Ndayizeye 👋
 
-**Frontend and Mobile Developer | UI/UX & Product Designer | DRF Enthusiast**
+**Fullstack | Mobile Developer | UI/UX & Product Designer**
 
 ---
 
 ## 💻 About Me
-I’m a Frontend Web, and Mobile Developer, UI/UX, and Product Designer passionate about creating modern, responsive, and accessible web applications. I blend design precision with clean, maintainable code using React, Vue.js on the front end, capacitor for Mobile, and build robust APIs with Django REST Framework on the back end — crafting seamless, intuitive, and impactful digital experiences.
+Fullstack Developer currently specializing in frontend development and UI/UX design at HOGI. Passionate about creating modern, responsive web applications from database to deployment. Skilled in React/Vue.js for dynamic interfaces and Django REST Framework for robust backend APIs. Proven ability to deliver complete fullstack solutions through personal projects.
 
 - 🔭 Currently building modern web apps and dashboards  
 - 🌱 Always learning new frontend and backend technologies  
@@ -17,7 +17,7 @@ I’m a Frontend Web, and Mobile Developer, UI/UX, and Product Designer passiona
 ## 🛠️ Skills
 
 **Frontend:** HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS, **Shadcn UI**, **Material UI**  
-**Backend:** Django REST Framework (DRF), APIs  
+**Backend:** Django REST Framework (DRF), REST APIs  
 **Design & Tools:** Figma, Adobe XD, Git, VS Code, UI/UX design principles  
 **Languages:** English, French, Swahili, Kirundi
 
