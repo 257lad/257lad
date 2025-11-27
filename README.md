@@ -22,18 +22,5 @@ Fullstack Developer currently specializing in frontend development and UI/UX des
 **Languages:** English, French, Swahili, Kirundi
 
 
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-257lad-181717?style=flat&logo=github)](https://github.com/257lad)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/)  
-[![Dribbble](https://img.shields.io/badge/Dribbble-isaac-red?style=flat&logo=dribbble)](https://dribbble.com/)
-
-
-
----
-
 ## ⚡ Fun Fact
 I’m passionate about **UI/UX design**, creating micro-interactions, and building **clean, intuitive, and performance-driven applications** using modern frontend libraries like **Shadcn UI** and **Material UI**.
